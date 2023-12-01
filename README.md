@@ -30,6 +30,12 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 ## Certifications
 
 - [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
+- [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
+- [Pandas](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Pandas.png)
+- [Intro to Machine Learning](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Intro%20to%20Machine%20Learning.png)
+- [C# - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/C%23(basic)%20Certificate_Navneet%20Kishan%20Srinivasan.pdf)
+- [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
+
 ## Projects 🛠️
 
 ### [JARVIS— AI Discord Bot]([Link to JARVIS Repo](https://github.com/NavneetKishanS/JARVIS_DiscordBot))
