@@ -67,4 +67,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 Let's connect and explore!
 - 📟[LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NavneetKishanS)
 <!-- Feel free to add more sections or customize as needed -->
