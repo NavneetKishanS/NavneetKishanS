@@ -7,9 +7,10 @@ A Computer Science enthusiast at Eötvös Loránd University, diving deep into t
 I'm driven by curiosity and a passion for technology, constantly exploring various specializations within the industry. Adaptable and committed to maintaining high standards, I thrive in team environments and handle deadlines with ease, whether working independently or collaboratively.
 
 - 🌱 **Currently learning and enhancing skills in**:
-  - Java, Python, C#, Machine Learning
-  - HTML5, CSS, .NET Core & .NET Framework
-  - PowerShell, Shell Scripting, and more.
+  - Java, Python, C#
+  - Machine Learning
+  - Computer Vision
+  - and anything that catches my interest 💡
 - 💡 **Proficient in**:
   - Algorithms and Data Structures
   - Object-Oriented Programming
@@ -18,9 +19,12 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
   - Achieved a band 8 score on the IELTS examination, showcasing strong English fluency.
   - Passionate about Film-making, Photography, Video Post-Production, and writing blogs for my personal blog.
 
+## Currently Learning 👩‍💻
+
+
 ## Top Skills 🚀
 
-### Programming Languages:
+### Programming Languages ⌨️
 - Java
 - Python
 - Javascript
@@ -31,13 +35,13 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 - PowerShell
 - Shell Scripting
 
-### Concepts & Tools:
+### Concepts & Tools 🛠️
 - Algorithms and Data Structures
 - Object-Oriented Programming
 - Business Fundamentals
 - Fundamental CI/CD principles using tools like GitHub etc.
   
-## Certifications
+## Certifications 🎓
 
 - [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
 - [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
@@ -46,7 +50,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 - [C# - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/C%23(basic)%20Certificate_Navneet%20Kishan%20Srinivasan.pdf)
 - [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
 
-## Projects 🛠️
+## Projects 🗃️
 
 ### [JARVIS— AI Discord Bot](https://github.com/NavneetKishanS/JARVIS_DiscordBot)
 - Python 3-based chatbot integrated with Discord API and OpenAI's text-davinci-003 model.
@@ -60,8 +64,6 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 ## Connect with Me 🌐
 
 Let's connect and explore!
-- [LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- [Personal Blog/Website](https://www.yourwebsite.com)
+- 📟[LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
 
 <!-- Feel free to add more sections or customize as needed -->
