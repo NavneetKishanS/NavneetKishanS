@@ -1,15 +1,5 @@
 # Hey there! 👋
-<center>
   # 👨‍💻I'm Navneet Kishan Srinivasan 🌟
-</center>
-<center>
-
-# Center Aligned Heading
-
-This text is center aligned.
-
-</center>
-
 
 A Computer Science enthusiast at Eötvös Loránd University, diving deep into the realms of technology. Currently, a member at GDSC ELTE, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
 
