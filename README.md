@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Navneet Kishan Srinivasan 🌟
 
-A Computer Science enthusiast at Eötvös Loránd University, diving deep into the realms of technology. Currently, a proud member at GDSC ELTE, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
+A Computer Science enthusiast at Eötvös Loránd University, diving deep into the realms of technology. Currently, a member at GDSC ELTE, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
 
 ## About Me ℹ️
 
