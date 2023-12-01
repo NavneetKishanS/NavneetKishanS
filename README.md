@@ -42,17 +42,17 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 
 JARVIS is a Python 3-based chatbot integrated with the Discord API and OpenAI's text-davinci-003 model. It listens and generates contextually relevant responses, customizable with parameters like temperature, max tokens, and more.
 
-### [FraudBait— Fraud Protection System]([Link to FraudBait Repo](https://github.com/NavneetKishanS/FraudBait_FraudProtectionProgram))
+### [FraudBait— Fraud Protection System](https://github.com/NavneetKishanS/FraudBait_FraudProtectionProgram)
 
 FraudBait is an intelligent fraud detection and prevention platform utilizing data-driven approaches to combat various forms of internet fraud. It includes modules for marketplace fraud, phishing, fake messages, and job advertisement fraud.
 
-### [WhatsApp ChatBot— AI-Powered Chatbot]([Link to WhatsApp ChatBot Repo](https://github.com/NavneetKishanS/WhatsAppChatBot))
+### [WhatsApp ChatBot— AI-Powered Chatbot](https://github.com/NavneetKishanS/WhatsAppChatBot)
 
 WhatsAppChatBot is a Python 3-based bot leveraging OpenAI's ChatGPT model 3, AWS, Twilio, and Ngrok. Hosted on AWS EC2, it offers AI-powered functionality.
 
 ## Connect with Me 🌐
 
-Let's connect and explore the world of technology together!
+Let's connect and explore!
 
 - [LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
 - [Twitter](https://twitter.com/yourtwitterhandle)
