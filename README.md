@@ -6,8 +6,8 @@ A Computer Science enthusiast at Eötvös Loránd University, diving deep into t
 
 I'm driven by curiosity and a passion for technology, constantly exploring various specializations within the industry. Adaptable and committed to maintaining high standards, I thrive in team environments and handle deadlines with ease, whether working independently or collaboratively.
 
-- 🌱 Currently learning and enhancing skills in: Java, Python, C#, C++, C, HTML5, CSS, .NET Core & .NET Framework, PowerShell, Shell Scripting, and more.
-- 💡 Proficient in: Algorithms and Data Structures, Object-Oriented Programming, and fundamental CI/CD principles using tools like GitHub, Jenkins, and Azure DevOps.
+- 🌱 Currently learning and enhancing skills in: Java, Python, C#, Machine Learning, HTML5, CSS, .NET Core & .NET Framework, PowerShell, Shell Scripting, and more.
+- 💡 Proficient in: Algorithms and Data Structures, Object-Oriented Programming, and fundamental CI/CD principles using tools like GitHub etc..
 - 🌟 Achieved a band 8 score on the IELTS examination, showcasing strong English fluency.
 - 🎥 Passionate about Film-making, Photography, Video Post-Production, and writing blogs for my personal blog.
 
@@ -27,18 +27,20 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 - Algorithms and Data Structures
 - Object-Oriented Programming
 - Business Fundamentals
+## Certifications
 
+- [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
 ## Projects 🛠️
 
-### [JARVIS— AI Discord Bot](Link to JARVIS Repo)
+### [JARVIS— AI Discord Bot]([Link to JARVIS Repo](https://github.com/NavneetKishanS/JARVIS_DiscordBot))
 
 JARVIS is a Python 3-based chatbot integrated with the Discord API and OpenAI's text-davinci-003 model. It listens and generates contextually relevant responses, customizable with parameters like temperature, max tokens, and more.
 
-### [FraudBait— Fraud Protection System](Link to FraudBait Repo)
+### [FraudBait— Fraud Protection System]([Link to FraudBait Repo](https://github.com/NavneetKishanS/FraudBait_FraudProtectionProgram))
 
 FraudBait is an intelligent fraud detection and prevention platform utilizing data-driven approaches to combat various forms of internet fraud. It includes modules for marketplace fraud, phishing, fake messages, and job advertisement fraud.
 
-### [WhatsApp ChatBot— AI-Powered Chatbot](Link to WhatsApp ChatBot Repo)
+### [WhatsApp ChatBot— AI-Powered Chatbot]([Link to WhatsApp ChatBot Repo](https://github.com/NavneetKishanS/WhatsAppChatBot))
 
 WhatsAppChatBot is a Python 3-based bot leveraging OpenAI's ChatGPT model 3, AWS, Twilio, and Ngrok. Hosted on AWS EC2, it offers AI-powered functionality.
 
