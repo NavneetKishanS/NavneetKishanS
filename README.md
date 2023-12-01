@@ -38,7 +38,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 
 ## Projects 🛠️
 
-### [JARVIS— AI Discord Bot]([Link to JARVIS Repo](https://github.com/NavneetKishanS/JARVIS_DiscordBot))
+### [JARVIS— AI Discord Bot](https://github.com/NavneetKishanS/JARVIS_DiscordBot)
 
 JARVIS is a Python 3-based chatbot integrated with the Discord API and OpenAI's text-davinci-003 model. It listens and generates contextually relevant responses, customizable with parameters like temperature, max tokens, and more.
 
