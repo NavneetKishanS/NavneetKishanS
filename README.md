@@ -8,6 +8,7 @@ A Computer Science enthusiast at Eötvös Loránd University, diving deep into t
 I'm driven by curiosity and a passion for technology, constantly exploring various specializations within the industry. Adaptable and committed to maintaining high standards, I thrive in team environments and handle deadlines with ease, whether working independently or collaboratively.
 
 - 🌱 **Currently learning and enhancing skills in**:
+  - Java, Python, C#
   - Machine Learning
   - Computer Vision
   - and anything that catches my interest 💡
@@ -20,7 +21,6 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
   - Passionate about Film-making, Photography, Video Post-Production, and writing blogs for my personal blog.
 
 ## Currently Learning 👩‍💻
-  - Java, Python, C#
   - Machine Learning
   - Computer Vision
   - and anything that catches my interest 💡
