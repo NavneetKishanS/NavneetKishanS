@@ -21,9 +21,9 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
   - Passionate about Film-making, Photography, Video Post-Production, and writing blogs for my personal blog.
 
 ## Currently Learning 👩‍💻
-  - Machine Learning
-  - Computer Vision
-  - and anything that catches my interest 💡
+  - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+  - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻
+  - 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 💡
 
 
 ## Top Skills 🚀
