@@ -74,5 +74,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 <!-- Feel free to add more sections or customize as needed -->
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="navneet-kishan-s" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/navneet-kishan-s?trk=profile-badge">Navneet Kishan Srinivasan</a></div>
 
+<img src="https://myreadme.vercel.app/api/embed/NavneetKishanS?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=navneetkishan)](https://github.com/navneetkishan/github-readme)
               
