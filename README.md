@@ -66,6 +66,9 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 ### [WhatsApp ChatBot— AI-Powered Chatbot](https://github.com/NavneetKishanS/WhatsAppChatBot)
 - Python 3-based bot leveraging OpenAI's ChatGPT model 3, AWS, Twilio, and Ngrok.
 
+### [MapMaker - Dynamic JavaScript Game]
+- Interactive game blending Javascript, HTML and CSS, where users strategically position patterns within a grid to complete missions and earn points, delivering an engaging gaming experience through DOM manipulation and a JavaScript scoring program.
+
 ## Connect with Me 🌐
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
