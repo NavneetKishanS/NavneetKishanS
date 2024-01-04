@@ -2,7 +2,7 @@
   # 👨‍💻I'm Navneet Kishan Srinivasan 🌟
 
 A Computer Science enthusiast at Eötvös Loránd University, diving deep into the realms of technology. Currently, a member at GDSC ELTE, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
-/..
+
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
 ## About Me </>
