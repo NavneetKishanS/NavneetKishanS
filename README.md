@@ -2,7 +2,7 @@
   # 👨‍💻I'm Navneet Kishan Srinivasan 😃
 ### Software Developer | Computer Science Student
 
-![Header](./github-header-image.png)
+![Header](./github-header-img.png)
 
 
 
