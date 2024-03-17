@@ -56,6 +56,9 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 ### [MapMaker - Dynamic JavaScript Game](https://navneetkishans.github.io/mapmaker/)
 - Interactive game blending Javascript, HTML and CSS, where users strategically position patterns within a grid to complete missions and earn points, delivering an engaging gaming experience through DOM manipulation and a JavaScript scoring program.
 
+### [Rock or Mine Predictor using Logistic Regression](https://github.com/NavneetKishanS/rock-or-mine-predictor))
+- Implemented a machine learning model using Python, numpy, pandas, and scikit-learn with Logistic Regression to predict whether SONAR data represents a Mine or Rock. Trained on a Kaggle dataset, achieving impressive accuracy.
+
 ## Connect with Me 🌐
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
