@@ -64,7 +64,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NavneetKishanS)
-[![Google Dev Page](https://g.dev/navneetkishan)
+[Google Dev Page](https://g.dev/navneetkishan)
 
 <!-- Feel free to add more sections or customize as needed -->
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="navneet-kishan-s" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/navneet-kishan-s?trk=profile-badge">Navneet Kishan Srinivasan</a></div>
