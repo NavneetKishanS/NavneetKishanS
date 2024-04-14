@@ -15,7 +15,8 @@ A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep 
 I'm driven by curiosity and a passion for technology, constantly exploring various specializations within the industry. Adaptable and committed to maintaining high standards, I thrive in team environments and handle deadlines with ease, whether working independently or collaboratively.
 
 ## Currently Learning 👩‍💻
-  - Oracle DB 
+  - Oracle DB
+  - PHP 
   - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖
   - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 👁️‍🗨️
   - 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 !!!🚀
