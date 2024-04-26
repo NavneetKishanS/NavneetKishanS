@@ -16,6 +16,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 
 ## Currently Learning 👩‍💻
   - Oracle DB
+  - PLSQL
   - PHP 
   - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖
   - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 👁️‍🗨️
@@ -23,7 +24,7 @@ I'm driven by curiosity and a passion for technology, constantly exploring vario
 
 ## Top Skills 🚀
 
-### Programming Languages ⌨️
+### Programming Languages & Tools ⌨️
 - Java
 - Python
 - Javascript
