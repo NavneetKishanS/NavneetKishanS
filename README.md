@@ -1,6 +1,6 @@
 # Hey there!! 👋
   # 👨‍💻I'm Navneet Kishan Srinivasan 😃
-### Software Developer | Computer Science Student
+### Quantitative Developer Intern | Computer Science Student
 
 ![Header](./github-header-img.png)
 
