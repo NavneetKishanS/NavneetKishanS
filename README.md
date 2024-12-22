@@ -12,7 +12,12 @@ A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
 ## About Me </>
 
-I'm driven by curiosity and a passion for technology, constantly exploring various specializations within the industry. Adaptable and committed to maintaining high standards, I thrive in team environments and handle deadlines with ease, whether working independently or collaboratively.
+As a Quantitative Developer Intern at Citibank and a final-year Computer Science student at Eötvös Loránd University, Budapest, I am driven by a deep passion for technology, mathematics, and innovation. My experience spans key programming languages like Python, C#, Java, and C, along with web technologies such as HTML, CSS, JavaScript, Node.js, React.js, and other tools like MongoDB, Git, and REST APIs.
+
+I’m a curious and proactive learner, always eager to expand my skill set and take on new challenges. My strong problem-solving, analytical, and organizational abilities enable me to excel both independently and in diverse, collaborative teams.
+
+Fluent in English (IELTS band 8), I thrive in multicultural environments and am always open to connecting with professionals who share my enthusiasm for technology.
+
 
 ## Currently Learning 👩‍💻
   - Oracle DB
