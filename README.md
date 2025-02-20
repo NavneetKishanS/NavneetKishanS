@@ -19,7 +19,7 @@ I’m a curious and proactive learner, always eager to expand my skill set and t
 Fluent in English (IELTS band 8), I thrive in multicultural environments and am always open to connecting with professionals who share my enthusiasm for technology.
 
 
-## Currently Learning 👩‍💻
+## Currently Learning 
   - Oracle DB
   - PLSQL
   - PHP 
