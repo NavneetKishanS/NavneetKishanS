@@ -1,6 +1,6 @@
 # Hey there!! 👋
   # 👨‍💻I'm Navneet Kishan Srinivasan 😃
-### Quantitative Developer Intern | Computer Science Student
+### Computer Scientist | MSc Data Science @FAU | Ex-Quant Dev @Citi | Former Instructor @ELTE
 
 ![Header](./github-header-img.png)
 
