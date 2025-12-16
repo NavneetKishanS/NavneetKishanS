@@ -2,7 +2,7 @@
   # 👨‍💻I'm Navneet Kishan Srinivasan 😃
 ### Computer Scientist | MSc Data Science @FAU | Ex-Quant Dev @Citi | Former Instructor @ELTE
 
-![Header](./github-header-img.png)
+![Header](./github_banner_nk.png)
 
 
 
