@@ -6,17 +6,17 @@
 
 
 
-A *Computer Science* enthusiast at **Eötvös Loránd University**, diving deep into the realms of technology. Currently, a member at **GDSC ELTE**, seeking novel challenges while fueled by curiosity-driven innovation. 🚀
+A *Computer Scientist*, Ex-Quantitative Developer Intern at Citibank, former Python and Java(OOP) Instructor at ELTE Faculty of Informatics studying *MSc Data Science* at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).🚀
 
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
 ## About Me </>
 
-As a Quantitative Developer Intern at Citibank and a final-year Computer Science student at Eötvös Loránd University, Budapest, I am driven by a deep passion for technology, mathematics, and innovation. My experience spans key programming languages like Python, C#, Java, and C, along with web technologies such as HTML, CSS, JavaScript, Node.js, React.js, and other tools like MongoDB, Git, and REST APIs.
+Driven by a deep passion for technology, healthcare, mathematics, and innovation, my experience spans key programming languages like Python, C#, Java, and C, along with web technologies such as HTML, CSS, JavaScript, Node.js, React.js, and other tools like MongoDB, Git, and REST APIs.
 
 I’m a curious and proactive learner, always eager to expand my skill set and take on new challenges. My strong problem-solving, analytical, and organizational abilities enable me to excel both independently and in diverse, collaborative teams.
 
-Fluent in English (IELTS band 8), I thrive in multicultural environments and am always open to connecting with professionals who share my enthusiasm for technology.
+Fluent in English (IELTS band 8.5/CEFR C2), I thrive in multicultural environments and am always open to connecting with professionals who share my enthusiasm for technology.
 
 
 ## Currently Learning 
