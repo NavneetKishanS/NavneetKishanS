@@ -10,6 +10,7 @@ A *Computer Scientist*, Ex-Quantitative Developer Intern at Citibank, former Pyt
 
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
+## About Me </>
 
 I'm a Computer Scientist building at the intersection of healthcare technology, software engineering, machine learning and data science. 
 
