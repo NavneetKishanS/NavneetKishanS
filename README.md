@@ -26,9 +26,6 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 
 
 ## Currently Learning 
-  - Oracle DB
-  - PLSQL
-  - PHP 
   - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖
   - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 👁️‍🗨️
   - 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 !!!🚀
@@ -36,15 +33,13 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 ## Top Skills 🚀
 
 ### Programming Languages & Tools ⌨️
-- Java
 - Python
-- Javascript
 - C#
-- HTML5
-- CSS
-- .NET Core & .NET Framework
-- PowerShell
-- Shell Scripting
+- Java
+- FastAPI
+- React
+- Docker
+- REST APIs
   
 ## Certifications 🎓
 
@@ -56,6 +51,12 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 - [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
 
 ## Projects 🗃️
+
+### [MedLedger: A Secure, Modular EHR System Integrating FHIR Standards and Blockchain Auditability](https://github.com/NavneetKishanS/medledger)
+
+### [Comparative Analysis of Data-Driven GNN-Based Path Planning and Classical Search Algorithms](https://www.researchgate.net/publication/400299517_Comparative_Analysis_of_Data-Driven_GNN-Based_Path_Planning_and_Classical_Search_Algorithms)
+
+### [Radiology Differential Diagnosis Assistant with Evidence-Based Reasoning](https://github.com/NavneetKishanS/radiology-dx-agent)
 
 ### [JARVIS— AI Discord Bot](https://github.com/NavneetKishanS/JARVIS_DiscordBot)
 - Python 3-based chatbot integrated with Discord API and OpenAI's text-davinci-003 model.
@@ -74,6 +75,7 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 
 ## Connect with Me 🌐
 
+[Portfolio](navneetkishan.me)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NavneetKishanS)
