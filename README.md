@@ -6,7 +6,6 @@
 
 
 
-A *Computer Scientist*, Ex-Quantitative Developer Intern at Citibank, former Python and Java(OOP) Instructor at ELTE Faculty of Informatics studying *MSc Data Science* at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).🚀
 
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
