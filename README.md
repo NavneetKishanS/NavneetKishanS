@@ -10,7 +10,7 @@ A *Computer Scientist*, Ex-Quantitative Developer Intern at Citibank, former Pyt
 
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
-## About Me </>
+## About Me:
 
 I'm a Computer Scientist building at the intersection of healthcare technology, software engineering, machine learning and data science. 
 
@@ -66,7 +66,7 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 ### [Rock or Mine Predictor using Logistic Regression](https://github.com/NavneetKishanS/rock-or-mine-predictor)
 - Implemented a machine learning model using Python, numpy, pandas, and scikit-learn with Logistic Regression to predict whether SONAR data represents a Mine or Rock. Trained on a Kaggle dataset, achieving impressive accuracy.
 
-## Certifications 🎓
+## Certifications 🎓(section due for an update haha)
 
 - [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
 - [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
