@@ -26,6 +26,8 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 
 
 ## Currently Learning 
+  - Artificial Intelligence(AI)
+  - Medical Image Processing
   - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖
   - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 👁️‍🗨️
   - 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 !!!🚀
@@ -41,15 +43,6 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 - Docker
 - REST APIs
   
-## Certifications 🎓
-
-- [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
-- [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
-- [Pandas](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Pandas.png)
-- [Intro to Machine Learning](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Intro%20to%20Machine%20Learning.png)
-- [C# - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/C%23(basic)%20Certificate_Navneet%20Kishan%20Srinivasan.pdf)
-- [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
-
 ## Projects 🗃️
 
 ### [MedLedger: A Secure, Modular EHR System Integrating FHIR Standards and Blockchain Auditability](https://github.com/NavneetKishanS/medledger)
@@ -72,6 +65,16 @@ I'm drawn to roles with tangible impact, particularly in digital health, medical
 
 ### [Rock or Mine Predictor using Logistic Regression](https://github.com/NavneetKishanS/rock-or-mine-predictor)
 - Implemented a machine learning model using Python, numpy, pandas, and scikit-learn with Logistic Regression to predict whether SONAR data represents a Mine or Rock. Trained on a Kaggle dataset, achieving impressive accuracy.
+
+## Certifications 🎓
+
+- [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
+- [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
+- [Pandas](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Pandas.png)
+- [Intro to Machine Learning](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Intro%20to%20Machine%20Learning.png)
+- [C# - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/C%23(basic)%20Certificate_Navneet%20Kishan%20Srinivasan.pdf)
+- [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
+
 
 ## Connect with Me 🌐
 
