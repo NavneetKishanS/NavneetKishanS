@@ -1,95 +1,83 @@
-# Hey there!! 👋
-  # I'm Navneet Kishan Srinivasan 👨‍💻
-### Computer Scientist | MSc Data Science @FAU | Working Student @Siemens Healthineers | Ex-Quant Dev @Citi | Former Instructor @ELTE
+# Hi, I'm Navneet Kishan Srinivasan 👋
+
+### Software Engineer · AI/ML · Backend & Full-Stack · Cloud-Native
 
 ![Header](./github_banner_nk_borderless.png)
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;LLM+%26+Agentic+Systems+Builder;Backend+%26+Cloud-Native+Engineer;Healthcare+AI+%7C+FHIR+%7C+Secure+Data+Systems)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=NavneetKishanS&color=green)
-## About Me:
 
-I'm a Computer Scientist building at the intersection of healthcare technology, software engineering, machine learning and data science. 
+Applied AI/ML Engineer at **Siemens Healthineers**, MSc Data Science candidate at **FAU Erlangen-Nürnberg**, ex-Quant Developer at **Citi**.
 
-Currently a Working Student at Siemens Healthineers in the Diagnostic Imaging Digital & Automation Platforms team, while pursuing my MSc in Data Science at FAU Erlangen-Nürnberg. My research focuses on medical imaging, image processing, healthcare AI, and secure interoperable health infrastructure. My bachelor's thesis, MedLedger, is a FHIR-compliant, blockchain-backed EHR platform that received a Special Mention at the TDK Scientific Conference at Siemens, Budapest.
+I build backend systems, observability tooling, and LLM-powered applications — with a growing focus on healthcare AI, secure data infrastructure, and agentic workflows. I like taking things from "works on my laptop" to "runs reliably in production."
 
-Previously, I worked as a Quantitative Developer at Citibank's Market Quant Analysis department, contributing to software engineering in the Cross Asset Development team at the intersection of technology and quantitative finance, developing tools for identifying hotspots across diverse asset classes. I've also taught Object-Oriented Programming (OOP) and Python to 140+ students at ELTE Faculty of Informatics, an experience that sharpened my ability to communicate complex ideas clearly.
+Working across **AI/ML Engineering**, **Backend Engineering**, **LLM/Generative AI systems**, and **Cloud-Native infrastructure** — open to Software Engineer, AI Engineer, and Machine Learning Engineer roles in Europe.
 
-Core stack: Python, C#, Java, FastAPI, React, Docker, REST APIs, with hands-on experience in FHIR standards and blockchain smart contracts.
+📍 Erlangen, Germany &nbsp;•&nbsp; [navneetkishan.me](https://navneetkishan.me) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/navneet-kishan-s) &nbsp;•&nbsp; navneetkishan54@gmail.com
 
-I'm drawn to roles with tangible impact, particularly in digital health, medical image processing, secure data systems, and automation. Always open to a conversation and open to joining conferences and hackathons in Europe.
+---
 
-→ navneetkishan.me
+## 🔭 Currently
 
+- Building production Python data pipelines for MRI diagnostic imaging @ Siemens Healthineers
+- Specializing in AI/ML for my MSc @ FAU Erlangen-Nürnberg
+- Exploring agentic workflows, RAG systems, and LLM cost/usage control
+- Open to conversations, conferences, and hackathons across Europe
 
-## Currently Learning 
-  - Artificial Intelligence(AI)
-  - Medical Image Processing
-  - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 🤖
-  - 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 👁️‍🗨️
-  - 𝗮𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘁𝗵𝗮𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗺𝘆 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 !!!🚀
+## 🚀 Featured Projects
 
-## Top Skills 🚀
+**[MedLedger](https://github.com/NavneetKishanS/medledger)** — Full-stack, containerized EHR platform
+`Python` `FastAPI` `Docker` `MongoDB` `HAPI FHIR`
+FHIR-compliant, blockchain-auditable health record system with role-based access control and anomaly detection on workload behavior. Bachelor's thesis (Grade 1.0), special mention at the TDK Scientific Conference @ Siemens Mobility.
 
-### Programming Languages & Tools ⌨️
-- Python
-- C#
-- Java
-- FastAPI
-- React
-- Docker
-- REST APIs
-  
-## Projects 🗃️
+**[PaperLens](https://github.com/NavneetKishanS)** — Cost-capped autonomous LLM agent
+`Python` `Claude API` `Agentic Workflows`
+Agentic pipeline that extracts claims from papers, provisions repositories, and self-corrects on failure via automated retries. Ships a real-time dashboard for run status, pass rates, and LLM spend — built with hard per-run cost caps and configurable model/backend selection.
 
-### [MedLedger: A Secure, Modular EHR System Integrating FHIR Standards and Blockchain Auditability](https://github.com/NavneetKishanS/medledger)
+**[Radiology Dx Agent](https://github.com/NavneetKishanS/radiology-dx-agent)** — Agentic RAG for differential diagnosis
+`Python` `RAG` `LLM APIs`
+Evidence-based reasoning assistant for radiology differential diagnosis, combining retrieval-augmented generation with structured clinical evidence.
 
-### [Comparative Analysis of Data-Driven GNN-Based Path Planning and Classical Search Algorithms](https://www.researchgate.net/publication/400299517_Comparative_Analysis_of_Data-Driven_GNN-Based_Path_Planning_and_Classical_Search_Algorithms)
+**[GNN-Based Path Planning](https://www.researchgate.net/publication/400299517_Comparative_Analysis_of_Data-Driven_GNN-Based_Path_Planning_and_Classical_Search_Algorithms)** — Research publication
+`Python` `GNNs` `Search Algorithms`
+Comparative analysis of data-driven GNN-based path planning against classical search algorithms.
 
-### [Radiology Differential Diagnosis Assistant with Evidence-Based Reasoning](https://github.com/NavneetKishanS/radiology-dx-agent)
+## 🛠️ Skills
 
-### [JARVIS— AI Discord Bot](https://github.com/NavneetKishanS/JARVIS_DiscordBot)
-- Python 3-based chatbot integrated with Discord API and OpenAI's text-davinci-003 model.
+**Languages:** Python · SQL · JavaScript · C# · Java
 
-### [FraudBait— Fraud Protection System](https://github.com/NavneetKishanS/FraudBait_FraudProtectionProgram)
-- Intelligent fraud detection and prevention platform using data-driven approaches.
+**Platform & Infrastructure:** Docker · Docker Compose · Linux · Git · CI/CD · AWS (fundamentals) · Infrastructure as Code · Microservices · Cloud-Native Architecture
 
-### [WhatsApp ChatBot— AI-Powered Chatbot](https://github.com/NavneetKishanS/WhatsAppChatBot)
-- Python 3-based bot leveraging OpenAI's ChatGPT model 3, AWS, Twilio, and Ngrok.
+**Observability & Reliability:** Application Monitoring · Logging & Log Analysis · Alerting · Incident Management · Root Cause Analysis · Debugging · Dashboards · Telemetry
 
-### [MapMaker - Dynamic JavaScript Game](https://navneetkishans.github.io/mapmaker/)
-- Interactive game blending Javascript, HTML and CSS, where users strategically position patterns within a grid to complete missions and earn points, delivering an engaging gaming experience through DOM manipulation and a JavaScript scoring program.
+**AI / LLM:** LLM APIs & Integration · LangChain · RAG · FAISS · Vector Databases · Agentic Workflows · LLM Cost Management · Token Budgeting · PyTorch · TensorFlow · MCP Servers
 
-### [Rock or Mine Predictor using Logistic Regression](https://github.com/NavneetKishanS/rock-or-mine-predictor)
-- Implemented a machine learning model using Python, numpy, pandas, and scikit-learn with Logistic Regression to predict whether SONAR data represents a Mine or Rock. Trained on a Kaggle dataset, achieving impressive accuracy.
+**Backend & Security:** FastAPI · REST APIs · Node.js · MongoDB · pytest · API Authentication · RBAC · Data Privacy
 
-## Certifications 🎓(section due for an update haha)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,fastapi,react,docker,aws,git,mongodb,linux,pytorch" alt="Skill icons" />
+</p>
 
-- [Java - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/java_basic%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
-- [Python](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Python.png)
-- [Pandas](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Pandas.png)
-- [Intro to Machine Learning](https://github.com/NavneetKishanS/Certifications/blob/main/Navneet%20Kishan%20Srinivasan%20-%20Intro%20to%20Machine%20Learning.png)
-- [C# - Basic](https://github.com/NavneetKishanS/Certifications/blob/main/C%23(basic)%20Certificate_Navneet%20Kishan%20Srinivasan.pdf)
-- [SQL - Intermediate](https://github.com/NavneetKishanS/Certifications/blob/main/sql_intermediate%20certificate_Navneet%20Kishan%20Srinivasan.pdf)
+## 💼 Experience
 
+- **Applied AI/ML Engineer**, Siemens Healthineers *(02/2026 – Present)* — Production Python pipelines for MRI; cut end-to-end runtime by 30%
+- **Quantitative Developer**, Citi *(06/2024 – 03/2025)* — Rebuilt internal monitoring/observability framework across a distributed production system
+- **Programming Instructor**, ELTE *(02/2025 – 06/2025)* — Taught Python & OOP/Java to 140+ students
+- **Technical Lead**, Google Developers Group on Campus *(10/2024 – 06/2025)* — Built automated evaluation frameworks for coding challenges
 
-## Connect with Me 🌐
+## 📫 Connect
 
-[Portfolio](navneetkishan.me)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/navneet-kishan-s)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NavneetKishanS)
-[Google Dev Page](https://g.dev/navneetkishan)
-
-<!-- Feel free to add more sections or customize as needed -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="navneet-kishan-s" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hu.linkedin.com/in/navneet-kishan-s?trk=profile-badge">Navneet Kishan Srinivasan</a></div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-navneetkishan.me-0b0d13?style=flat-square)](https://navneetkishan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-navneet--kishan--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navneet-kishan-s)
+[![Email](https://img.shields.io/badge/Email-navneetkishan54%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navneetkishan54@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-navneetkishans-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/navneetkishans)
+[![Google Dev](https://img.shields.io/badge/Google%20Dev-navneetkishan-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/navneetkishan)
 
 <a href="http://www.github.com/NavneetKishanS"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NavneetKishanS&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-<img src="https://myreadme.vercel.app/api/embed/NavneetKishanS?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=navneetkishan)](https://github.com/navneetkishan/github-readme)
-              
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavneetKishanS/NavneetKishanS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavneetKishanS/NavneetKishanS/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NavneetKishanS/NavneetKishanS/output/github-contribution-grid-snake.svg" />
+</picture>
