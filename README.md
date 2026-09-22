@@ -12,7 +12,7 @@ Applied AI/ML Engineer at **Siemens Healthineers**, MSc Data Science candidate a
 
 I build backend systems, observability tooling, and LLM-powered applications — with a growing focus on healthcare AI, secure data infrastructure, and agentic workflows. I like taking things from "works on my laptop" to "runs reliably in production."
 
-Working across **AI/ML Engineering**, **Backend Engineering**, **LLM/Generative AI systems**, and **Cloud-Native infrastructure** — open to Software Engineer, AI Engineer, and Machine Learning Engineer roles in Europe.
+Working across **AI/ML Engineering**, **Backend Engineering**, **LLM/Generative AI systems**, and **Cloud-Native infrastructure** — open to Software Engineer, AI Engineer, Founding Engineer, Forward Deployed Engineer(FDE) and Machine Learning Engineer roles.
 
 📍 Erlangen, Germany &nbsp;•&nbsp; [navneetkishan.me](https://navneetkishan.me) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/navneet-kishan-s) &nbsp;•&nbsp; navneetkishan54@gmail.com
 
