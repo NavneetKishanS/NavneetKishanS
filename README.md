@@ -21,7 +21,7 @@ Working across **AI/ML Engineering**, **Backend Engineering**, **LLM/Generative 
 ## 🔭 Currently
 
 - Building production Python data pipelines for MRI diagnostic imaging @ Siemens Healthineers
-- Specializing in AI/ML for my MSc @ FAU Erlangen-Nürnberg
+- Specializing in AI/ML for my MSc Data Science @ FAU Erlangen-Nürnberg
 - Exploring agentic workflows, RAG systems, and LLM cost/usage control
 - Open to conversations, conferences, and hackathons across Europe
 
