@@ -33,7 +33,7 @@ Working across **AI/ML Engineering**, **Backend Engineering**, **LLM/Generative 
 `Python` `FastAPI` `Docker` `MongoDB` `HAPI FHIR`
 FHIR-compliant, blockchain-auditable health record system with role-based access control and anomaly detection on workload behavior. Bachelor's thesis (Grade 1.0), special mention at the TDK Scientific Conference @ Siemens Mobility.
 
-**[PaperLens](https://github.com/NavneetKishanS)** — Cost-capped autonomous LLM agent
+**[PaperLens](https://github.com/NavneetKishanS/paper-lens)** — Cost-capped autonomous LLM agent
 `Python` `Claude API` `Agentic Workflows`
 Agentic pipeline that extracts claims from papers, provisions repositories, and self-corrects on failure via automated retries. Ships a real-time dashboard for run status, pass rates, and LLM spend — built with hard per-run cost caps and configurable model/backend selection.
 
